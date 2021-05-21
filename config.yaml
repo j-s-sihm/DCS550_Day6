@@ -1,5 +1,5 @@
 baseURL: https://21sumdcs550.netlify.app
-title: Your title
+title: DCS 550 Summer 2021
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -17,13 +17,13 @@ menu:
       url: /about/
       weight: 3
 params:
-  author: John Doe
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  author: J. Sihm
+  description: It seems like everything is going well. 
   menu_item_separator: ' - '
   social:
     - icon: github
       name: Github
-      url: https://github.com/gohugoio
+      url: https://github.com/yihui
     - icon: twitter
       name: Twitter
-      url: https://twitter.com/gohugoio
+      url: https://twitter.com/xieyihui
